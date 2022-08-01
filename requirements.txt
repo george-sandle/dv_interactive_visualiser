@@ -1,0 +1,11 @@
+python=3.9
+ipython
+matplotlib
+pandas
+pip
+ipywidgets
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
