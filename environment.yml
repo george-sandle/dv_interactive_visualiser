@@ -1,9 +1,9 @@
 name: machine-learning-env
 
 dependencies:
+  - python=3.10
   - ipython
   - matplotlib
   - pandas
   - pip
-  - python
   - ipywidgets
