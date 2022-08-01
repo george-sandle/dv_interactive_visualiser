@@ -1,8 +1,9 @@
-
-name: my_env
+name: machine-learning-env
 
 dependencies:
-  -python
+  - ipython
   - matplotlib
   - pandas
-  - ipywidgets
+  - pip
+  - python
+   -ipywidgets
