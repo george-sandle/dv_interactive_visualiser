@@ -6,4 +6,4 @@ dependencies:
   - pandas
   - pip
   - python
-   -ipywidgets
+  - ipywidgets
