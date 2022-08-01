@@ -3,7 +3,6 @@ name: my_env
 
 dependencies:
   -python
-  
   - matplotlib
   - pandas
   - ipywidgets
