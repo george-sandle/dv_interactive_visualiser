@@ -4,8 +4,6 @@ name: my_env
 dependencies:
  
   - numpy
-  - os
   - matplotlib
   - pandas
-  - pickle
   - ipywidgets
