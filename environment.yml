@@ -5,5 +5,5 @@ dependencies:
  
   - numpy
   - matplotlib
-  - pandas
+  - pandas=1.4.3
   - ipywidgets
