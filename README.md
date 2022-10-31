@@ -1,4 +1,4 @@
-# Visualsing metrics
+# Visualising metrics
 
 To visualise metrics - just load up the 'Testing DV Metrics.ipynb' file, read in 'all_results.pkl' and 'combined_metrics.pkl' and run all the cells.
 You should then be able to plot graphs and charts.
